@@ -1,0 +1,9 @@
+c:\users\linc\documents\visual studio 2015\Projects\ch2Calculator\ch2Calculator\bin\Debug\ch2Calculator.exe.config
+c:\users\linc\documents\visual studio 2015\Projects\ch2Calculator\ch2Calculator\bin\Debug\ch2Calculator.exe
+c:\users\linc\documents\visual studio 2015\Projects\ch2Calculator\ch2Calculator\bin\Debug\ch2Calculator.pdb
+c:\users\linc\documents\visual studio 2015\Projects\ch2Calculator\ch2Calculator\obj\Debug\ch2Calculator.csprojResolveAssemblyReference.cache
+c:\users\linc\documents\visual studio 2015\Projects\ch2Calculator\ch2Calculator\obj\Debug\ch2Calculator.Form1.resources
+c:\users\linc\documents\visual studio 2015\Projects\ch2Calculator\ch2Calculator\obj\Debug\ch2Calculator.Properties.Resources.resources
+c:\users\linc\documents\visual studio 2015\Projects\ch2Calculator\ch2Calculator\obj\Debug\ch2Calculator.csproj.GenerateResource.Cache
+c:\users\linc\documents\visual studio 2015\Projects\ch2Calculator\ch2Calculator\obj\Debug\ch2Calculator.exe
+c:\users\linc\documents\visual studio 2015\Projects\ch2Calculator\ch2Calculator\obj\Debug\ch2Calculator.pdb
