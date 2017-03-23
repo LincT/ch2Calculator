@@ -168,6 +168,7 @@ namespace ch2Calculator
                 //display error on bad data
                 MessageBox.Show("Please Enter Numeric Value", "Error!");
                 //return to input box with bad data to attempt new submission
+                //comment
                 txtInput2.Focus();
             }
             else
